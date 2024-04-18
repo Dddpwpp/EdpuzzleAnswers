@@ -26,5 +26,22 @@ https://user-images.githubusercontent.com/71154407/199671842-c3016f8c-8c7f-4526-
  - Does not go to your browser history (uses `about:blank`)
  - Not the most confusing GUI
 
-## things to note
+## things to take note of
  - Can not answer short answer questions/open-ended questions
+
+## Making the bookmarklet
+- Go to `bookmarklet.js`
+- Copy the code
+- Save the tab as a bookmark
+- Click more
+- Rename to whatever you want
+- Delete the URL of whatever is there
+- Paste the URL you copied
+- Done.
+
+## Using the bookmarklet
+ - Navigate to your edpuzzle assignment
+ - Click the bookmark you made
+ - Click the bookmark again
+ - Done
+   If it doesn't work then make sure `Allow popups`is on 
